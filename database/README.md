@@ -2,4 +2,4 @@
 
 ## postgres
 
-## mariadb
+## mariadb/mysql
