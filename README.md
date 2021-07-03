@@ -4,7 +4,8 @@
 
 스택
 
-docker
-python fastapi pydantic
-flutter
-postgresql
+docker  
+python fastapi pydantic  
+flutter  
+postgresql  
+(kafka)
